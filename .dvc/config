@@ -1,4 +1,2 @@
-[core]
-    remote = myremote
 ['remote "myremote"']
-    url = azure://dvcdataversioning/folder
+    url = gdrive://root/dvc
